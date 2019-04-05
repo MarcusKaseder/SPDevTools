@@ -7,7 +7,6 @@
 The first feature is "Auto Copy SharePoint Template Files to Root"</Description>
         <MoreInfo>https://github.com/MarcusKaseder/SPDevTools</MoreInfo>
         <License>LICENSE.txt</License>
-        <GettingStartedGuide>https://github.com/MarcusKaseder/SPDevTools</GettingStartedGuide>
         <Tags>SharePoint;SP;CKS;CKSDev</Tags>
         <Preview>true</Preview>
     </Metadata>
