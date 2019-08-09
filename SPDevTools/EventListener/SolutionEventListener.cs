@@ -1,4 +1,6 @@
-﻿namespace SPDevTools.EventListener
+﻿using Microsoft;
+
+namespace SPDevTools.EventListener
 {
     using System;
     using System.Collections.Generic;
@@ -6,6 +8,7 @@
     using System.Text;
     using System.Threading.Tasks;
     using Microsoft.VisualStudio;
+    using Microsoft.VisualStudio.ProjectSystem;
     using Microsoft.VisualStudio.Shell;
     using Microsoft.VisualStudio.Shell.Interop;
 
