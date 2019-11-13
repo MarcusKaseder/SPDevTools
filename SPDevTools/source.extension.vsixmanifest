@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="SPDevTools.9f8983eb-f622-4921-817a-e21e288f51dd" Version="1.0" Language="en-US" Publisher="Marcus Kaseder" />
+        <Identity Id="SPDevTools.9f8983eb-f622-4921-817a-e21e288f51dd" Version="1.3" Language="en-US" Publisher="Marcus Kaseder" />
         <DisplayName>SPDevTools</DisplayName>
         <Description xml:space="preserve">I love the CKS Dev extension. Since it does not work for VS2019 anymore, I decided to port the most important features.
 The first feature is "Auto Copy SharePoint Template Files to Root"</Description>
         <MoreInfo>https://github.com/MarcusKaseder/SPDevTools</MoreInfo>
         <License>LICENSE.txt</License>
         <Tags>SharePoint;SP;CKS;CKSDev</Tags>
-        <Preview>true</Preview>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 17.0)" />
